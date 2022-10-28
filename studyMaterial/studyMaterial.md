@@ -2,7 +2,7 @@
 
 ![image guy programing](/studyMaterial/programing-image.jpg)
 
-BIBLIOGRAPHY USED FOR THE FRONT END DEVELOPMENT HANDBOOK IN AIRONTLABS BOOTCAMP
+This document contins bibliography used for the frontend development handbook in Airtonlab bootcamp.
 
 ## Git
 
