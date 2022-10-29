@@ -53,3 +53,11 @@ This document contins bibliography used for the frontend development handbook in
 * [Web Content Accessibility Guidelines](https://www.w3.org/)
 
 * [Accessibility in html](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+
+## Javascript
+
+* [Javascript Syntax](https://www.w3schools.com/js/js_syntax.asp)
+
+* [Javascript Scope](https://www.w3schools.com/js/js_scope.asp)
+
+* [Javascript Hoisting](https://www.w3schools.com/js/js_strict.asp)
