@@ -46,3 +46,10 @@ This document contins bibliography used for the frontend development handbook in
 
 * [Og Protocol](https://ogp.me/)
 
+## Accessibility
+
+* [What is Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+
+* [Web Content Accessibility Guidelines](https://www.w3.org/)
+
+* [Accessibility in html](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
