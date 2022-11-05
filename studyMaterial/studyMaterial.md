@@ -35,6 +35,8 @@ This document contins bibliography used for the frontend development handbook in
 
 * [Html Dom](https://www.w3schools.com/whatis/whatis_htmldom.asp)
 
+* [Data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+
 
 ## Seo
 
@@ -61,3 +63,50 @@ This document contins bibliography used for the frontend development handbook in
 * [Javascript Scope](https://www.w3schools.com/js/js_scope.asp)
 
 * [Javascript Hoisting](https://www.w3schools.com/js/js_strict.asp)
+
+* [Ajax](https://www.w3schools.com/xml/ajax_intro.asp)
+
+* [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+## CSS Styles
+
+* [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
+
+* [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+
+* [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
+* [CSS Position](https://www.w3schools.com/css/css_positioning.asp)
+
+* [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+* [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
+
+* [CSS Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+* [CSS Pseudo Classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
+## CSS Prepocessors
+
+* [Sass](https://sass-lang.com/)
+
+* [Less](http://lesscss.org/)
+
+* [Stylus](https://stylus-lang.com/)
+
+## CSS Frameworks
+
+* [Bootstrap](https://getbootstrap.com/)
+
+* [Materialize](https://materializecss.com/)
+
+## CSS Architecture
+
+* [BEM](http://getbem.com/)
+
+* [SMACSS](https://smacss.com/)
+
+* [OOCSS](https://www.keycdn.com/blog/oocss)
+
+* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+
