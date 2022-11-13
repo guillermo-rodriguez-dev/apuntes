@@ -110,3 +110,65 @@ This document contins bibliography used for the frontend development handbook in
 
 * [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
+## Javascript Events
+
+* [Events](https://www.w3schools.com/js/js_events.asp)
+
+* [Event Bubbling](https://www.freecodecamp.org/news/event-bubbling-in-javascript)
+
+* [Event Propagation](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
+* [Event Capturing](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
+## Session Management
+
+* [Cookies](https://www.w3schools.com/js/js_cookies.asp)
+
+* [LocalStorage](https://www.w3schools.com/html/html5_webstorage.asp)
+
+* [SessionStorage](https://www.w3schools.com/html/html5_webstorage.asp)
+
+## JWT
+
+* [What is JWT](https://jwt.io/introduction/)
+
+* [JWT Structure](https://auth0.com/docs/secure/tokens/json-web-tokens/json-web-token-structure)
+## Oauth2
+
+* [Oauth2](https://oauth.net/2/)
+
+* [Oauth2 Authorization](https://www.oauth.com/oauth2-servers/authorization/)
+
+* [Oauth2 Token](https://www.oauth.com/oauth2-servers/access-tokens/)
+
+## SSO
+
+* [What is SSO](https://www.okta.com/identity-101/single-sign-on/)
+
+* [SSO](https://www.sso.com/)
+
+## JSONP
+
+* [What is JSONP](https://www.w3schools.com/js/js_json_jsonp.asp)
+
+* [JSONP](https://www.w3schools.com/js/js_json_jsonp.asp)
+
+
+## CORS
+
+* [What is CORS](https://www.w3schools.com/js/js_json_jsonp.asp)
+
+* [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/CORS)
+
+## HTTP
+
+* [What is HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
+* [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
+* [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+* [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+
+
