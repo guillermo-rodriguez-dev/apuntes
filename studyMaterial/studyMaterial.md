@@ -171,4 +171,25 @@ This document contins bibliography used for the frontend development handbook in
 * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
 
+## OOP
+
+* [What is OOP](https://www.w3schools.com/whatis/whatis_oop.asp)
+
+* [OOP](https://www.w3schools.com/whatis/whatis_oop.asp)
+
+## SOLID Principles
+
+* [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+## ES6
+
+* [ES6](https://www.w3schools.com/js/js_es6.asp)
+
+* [ES6 Classes](https://www.w3schools.com/js/js_classes.asp)
+
+* [ES6 Modules](https://www.w3schools.com/js/js_modules.asp)
+
+* [ES6 Promises](https://www.w3schools.com/js/js_promise.asp)
+
+* [ES6 Async Await](https://www.w3schools.com/js/js_promise.asp)
 
