@@ -68,6 +68,12 @@ This document contins bibliography used for the frontend development handbook in
 
 * [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
+* [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
+
+* [Closure](https://www.w3schools.com/js/js_function_closures.asp)
+
+
+
 ## CSS Styles
 
 * [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
@@ -177,9 +183,28 @@ This document contins bibliography used for the frontend development handbook in
 
 * [OOP](https://www.w3schools.com/whatis/whatis_oop.asp)
 
+* [Encapsulation](https://www.scaler.com/topics/javascript/encapsulation-in-javascript/)
+
+* [Inheritance](https://www.w3schools.com/js/js_object_prototypes.asp)
+
+* [Polymorphism](https://www.w3schools.com/js/js_object_prototypes.asp)
+
+* [Abstraction](https://www.w3schools.com/js/js_object_prototypes.asp)
+
 ## SOLID Principles
 
 * [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+* [Single Responsibility](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+* [Open Closed](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+* [Liskov Substitution](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+* [Interface Segregation](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+* [Dependency Inversion](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
 
 ## ES6
 
@@ -192,4 +217,20 @@ This document contins bibliography used for the frontend development handbook in
 * [ES6 Promises](https://www.w3schools.com/js/js_promise.asp)
 
 * [ES6 Async Await](https://www.w3schools.com/js/js_promise.asp)
+
+## Cibersecurity
+
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+* [XSS Attacks](https://owasp.org/www-community/attacks/xss/)
+
+* [CSRF Attacks](https://owasp.org/www-community/attacks/csrf/)
+
+* [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
+
+* [Brute Force Attacks](https://owasp.org/www-community/attacks/Brute_force_attack)
+
+* [DoS Attack](https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos)
+
+* [Multi Factor Authentication](https://www.onelogin.com/learn/what-is-mfa)
 
