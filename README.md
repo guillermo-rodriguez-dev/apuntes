@@ -1,6 +1,6 @@
 # AirontLab Introductory Program - FrontEnd
 
-![image guy programing](/studyMaterial/programing-image.jpg)
+![image guy programing](/programing-image.jpg)
 
 This document contins bibliography used for the frontend development handbook in Airtonlab bootcamp.
 
